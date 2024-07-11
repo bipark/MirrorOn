@@ -5,6 +5,11 @@
 * 이미지 및 PDF를 업로드 하여 요약 및 관련 질의를 실행할수 있습니다.
 * 사전지시사항(Instruction)을 관리하고 원하는 지시문을 선택하여 질의에 반영할수 있습니다.
 
+![Alt text](https://crack-docs.s3.ap-northeast-2.amazonaws.com/kscreen1.png)
+
+## 다운로드 링크
+* <https://github.com/bipark/MirrorOn/releases/tag/MirrorOn>
+
 ## 지원 LLMs
 * ChatGPT
 * Claude
@@ -30,6 +35,7 @@ Ollama는 사용자가 자신의 컴퓨터에서 LLM을 운영할수 있도록 �
 * PDF 업로드
 * 인스트럭션 
 * 설정
+* 다국어 지원 - 한국어, 영어, 일본어
 
 ## 기타
 * MirrorOn은 무료입니다.
