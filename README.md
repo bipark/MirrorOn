@@ -37,6 +37,7 @@ Ollama는 사용자가 자신의 컴퓨터에서 LLM을 운영할 수 있도록 
 * 인스트럭션 
 * 설정
 * 다국어 지원 - 한국어, 영어, 일본어
+* PDF RAG - <https://youtu.be/5y8F2f28ZAM>
 
 ## 기타
 * MirrorOn은 무료입니다.
