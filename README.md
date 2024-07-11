@@ -4,7 +4,7 @@
 * 한번 질의로 ChatGPT, Claude, Ollama 세가지 LLM에서 동시에 질의 결과를 얻을수 있습니다.
 * 이미지 및 PDF를 업로드 하여 요약 및 관련 질의를 실행할수 있습니다.
 * 사전지시사항(Instruction)을 관리하고 원하는 지시문을 선택하여 질의에 반영할수 있습니다.
-* [English](https://github.com/bipark/MirrorOn/blob/main/README-en.md) [Japanese](https://github.com/bipark/MirrorOn/blob/main/README-en.md)
+* [English](https://github.com/bipark/MirrorOn/blob/main/README-en.md) [日本語](https://github.com/bipark/MirrorOn/blob/main/README-en.md)
 
 ![Alt text](https://crack-docs.s3.ap-northeast-2.amazonaws.com/kscreen1.png)
 
