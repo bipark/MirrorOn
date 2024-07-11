@@ -36,6 +36,7 @@ Ollama is a program that allows users to run LLM on their own computer. It suppo
 * Instructions 
 * Settings
 * Multilingual support - Korean, English, Japanese, etc.
+* PDF RAG - https://youtu.be/5y8F2f28ZAM
 
 ## Other
 * MirrorOn is free of charge.
