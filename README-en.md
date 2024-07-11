@@ -5,7 +5,7 @@
 * You can upload images and PDFs to run summaries and related queries.
 * You can manage dictionary instructions and select the desired instruction to reflect in the query.
 
-![Alt text](https://crack-docs.s3.ap-northeast-2.amazonaws.com/escreen1.png)
+![Sample Screen](https://github.com/bipark/MirrorOn/blob/main/sample1.gif)
 
 ## Download link
 * <https://github.com/bipark/MirrorOn/releases/tag/MirrorOn>
