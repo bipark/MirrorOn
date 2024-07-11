@@ -5,7 +5,7 @@
 * 画像やPDFをアップロードして、要約や関連クエリを実行することができます。
 * 事前指示事項(Instruction)を管理し、希望する指示文を選択して問い合わせに反映することができます。
 
-Alt text](https://crack-docs.s3.ap-northeast-2.amazonaws.com/jscreen1.png)
+![Sample Screen](https://github.com/bipark/MirrorOn/blob/main/sample1.gif)
 
 ## ダウンロードリンク
 * <https://github.com/bipark/MirrorOn/releases/tag/MirrorOn>
