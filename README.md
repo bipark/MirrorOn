@@ -6,7 +6,7 @@
 * 사전지시사항(Instruction)을 관리하고 원하는 지시문을 선택하여 질의에 반영할 수 있습니다.
 * [English](https://github.com/bipark/MirrorOn/blob/main/README-en.md) [日本語](https://github.com/bipark/MirrorOn/blob/main/README-en.md)
 
-![Sample Screen]([https://crack-docs.s3.ap-northeast-2.amazonaws.com/kscreen1.png](https://github.com/bipark/MirrorOn/blob/main/sample1.gif))
+![Sample Screen]([https://github.com/bipark/MirrorOn/blob/main/sample1.gif)])
 
 ## 다운로드 링크
 * <https://github.com/bipark/MirrorOn/releases/tag/MirrorOn>
